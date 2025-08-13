@@ -19,7 +19,7 @@
 /> 
   
 <div>  
-position = "bottom" 
+position = bottom 
 <br>
 *more about me:*  
 I like to play souls-like games ⚔️☠️, Star Wars trylogys 🎞️ (not the lastest one 👎) and I'm learning how to play guitar 🎸!
