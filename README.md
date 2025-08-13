@@ -16,7 +16,7 @@
   alt="GitHub Stats"
   height="200px"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanzin222&theme=merko&layout=compact"
-/>\
+/>a\
 
 \
 \
