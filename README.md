@@ -18,16 +18,16 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanzin222&theme=merko&layout=compact"
 />\
 
-\1
-\2
-\3
-\4
-\5
-\6
-\7
-\8
-\9
-\10
+\ 1
+\ 2
+\ 3
+\ 4
+\ 5
+\ 6
+\ 7
+\ 8
+\ 9
+\ 10
 <p>   
 <br>
 *more about me:*  
