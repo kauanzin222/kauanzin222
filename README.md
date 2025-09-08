@@ -21,7 +21,9 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanzin222&theme=merko&layout=compact"
 />
 <br clear="left" />
-<br>
+
+
+---
 *more about me:*  
 I like to play souls-like games ⚔️☠️, Star Wars saga 🎞️ (not the lastest one 👎) and I'm learning how to play guitar 🎸!
 
