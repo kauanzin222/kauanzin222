@@ -68,17 +68,17 @@ Aspiring **Full-Stack Developer** following my roadmap and learning every day. I
 ---
 
 ## 📌 My Atual Pins:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauanzin222&repo=bootcamp-devjr-projectmenu-bootstrap&theme=react)](https://github.com/kauanzin222/bootcamp-devjr-projectmenu-bootstrap.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauanzin222&repo=bootcamp-devjr-projectmenu-bootstrap&theme=react)](https://github.com/kauanzin222/bootcamp-devjr-projectmenu-bootstrap.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauanzin222&repo=GISA-Projeto&theme=react)](https://github.com/kauanzin222/GISA-Projeto.git)
 
 ---
 
 ## 🌐 Social Media:
-  
+<a href="https://www.linkedin.com/in/kauã-cardoso-25259b2b3">
 <img 
   src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
-  href="www.linkedin.com/in/kauã-cardoso-25259b2b3"
   alt="LinkedIn_logo"
   height="45"
   width="45"
 />
+</a>
 
