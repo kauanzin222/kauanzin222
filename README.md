@@ -47,21 +47,21 @@ Aspiring **Full-Stack Developer** following my roadmap and learning every day. I
   align="left"
   alt="GitHub Stats"
   height="195"
-  src="https://github-readme-stats.vercel.app/api?username=kauanzin222&show_icons=true&theme=react&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=kauanzin222&show_icons=true&theme=ayu-mirage&rank_icon=github"
 />
 
 <img 
   align="left"
   alt="GitHub Stats"
   height="195"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanzin222&theme=react&hide=python"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanzin222&theme=ayu-mirage&hide=python"
 />
 <br clear="left"/>
 
 ---
 
 ## 📌 My Atual Pins:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauanzin222&repo=bootcamp-devjr-projectmenu-bootstrap&theme=react)](https://github.com/kauanzin222/bootcamp-devjr-projectmenu-bootstrap.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauanzin222&repo=GISA-Projeto&theme=react)](https://github.com/kauanzin222/GISA-Projeto.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauanzin222&repo=bootcamp-devjr-projectmenu-bootstrap&theme=ayu-mirage)](https://github.com/kauanzin222/bootcamp-devjr-projectmenu-bootstrap)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauanzin222&repo=GISA-Projeto&theme=ayu-mirage)](https://github.com/kauanzin222/GISA-Projeto)
 
 ---
 
