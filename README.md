@@ -1,49 +1,43 @@
 # 👩🏻‍💻 Hello there! I'm Kauã.
 
 ## 🚀 About me: 
-Aspiring **Full-Stack Developer** following my roadmap and learning every day. I have **solid knowledge in programming logic** and basic **web development** using HTML, CSS, JavaScript, BootStrap. I'm currently looking to learn and develop projects in **Java and later improve with Angular**. I am open to changes and acquiring learning and knowledge. I intend to continually expand my technical base. I also have basic knowledge with **Oracle SQL**.
+Aspiring **Full-Stack Developer** following my roadmap and learning every day. I have **solid knowledge in programming logic** and basic **web development** using ``HTML, CSS, JavaScript, BootStrap``. I'm currently looking to learn and develop projects in **``Java and later improve with Angular``**. I am open to changes and acquiring learning and knowledge. I intend to continually expand my technical base. I also have basic knowledge with **``Oracle SQL``**.
 
 
 ## 🛠️ Abilitys: 
-  - ### General
-<img
+  - ### ``General``
+&nbsp;&nbsp;<img
   src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
   alt="Java_logo"
-  height="45"
   width="45"
-/>
+/>&nbsp;&nbsp;&nbsp;
 <img 
   src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
   alt="JavaScript_logo"
-  height="45"
   width="45"
-/>
+/>&nbsp;&nbsp;&nbsp;
 <img 
   src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg"
   alt="SQL_logo"
-  height="45"
   width="45"
-/>
+/>&nbsp;&nbsp;&nbsp;
 
-  - ### Web Development
-<img 
+  - ### ``Web Development``
+&nbsp;&nbsp;<img 
   src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
   alt="HTML_logo"
-  height="45"
   width="45"
-/>
+/>&nbsp;&nbsp;&nbsp;
 <img 
   src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"
   alt="CSS_logo"
-  height="45"
   width="45"
-/>
+/>&nbsp;&nbsp;&nbsp;
 <img 
   src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
   alt="BootStrap_logo"
-  height="45"
   width="45"
-/>
+/>&nbsp;&nbsp;&nbsp;
 
 --- 
 
