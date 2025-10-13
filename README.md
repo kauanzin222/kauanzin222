@@ -54,7 +54,7 @@ Aspiring **Full-Stack Developer** following my roadmap and learning every day. I
   align="left"
   alt="GitHub Stats"
   height="195"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanzin222&theme=react"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanzin222&theme=react&hide=python"
 />
 <br clear="left"/>
 
