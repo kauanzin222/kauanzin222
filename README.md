@@ -1,30 +1,84 @@
-## 🐸 Hello there! I'm Kauã.
-**I'm a student at Fatec Sorocaba. Looking to be a FullStack Developer 🖥️!** 
-**I'm doing the roadmap to it, learning more each day.**
+# 👩🏻‍💻 Hello there! I'm Kauã.
 
----
+## 🚀 About me: 
+Aspiring **Full-Stack Developer** following my roadmap and learning every day. I have **solid knowledge in programming logic** and basic **web development** using HTML, CSS & JavaScript. I'm currently looking to learn and develop projects in **Java and later improve with Angular**. I am open to changes and acquiring learning and knowledge. I intend to continually expand my technical base. I also have basic knowledge with **Oracle SQL**.
 
 
-**🤖 Stats:**
+## 🛠️ Abilitys: 
+  - ### General
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
+  alt="Java_logo"
+  height="45"
+  width="45"
+/>
+<img 
+  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+  alt="JavaScript_logo"
+  height="45"
+  width="45"
+/>
+<img 
+  src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg"
+  alt="SQL_logo"
+  height="45"
+  width="45"
+/>
+
+  - ### Web Development
+<img 
+  src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+  alt="HTML_logo"
+  height="45"
+  width="45"
+/>
+<img 
+  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"
+  alt="CSS_logo"
+  height="45"
+  width="45"
+/>
+<img 
+  src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
+  alt="BootStrap_logo"
+  height="45"
+  width="45"
+/>
+
+--- 
+
+## 🤖 Stats:
 
 <img 
   align="left"
   alt="GitHub Stats"
-  height="200px"
-  src="https://github-readme-stats.vercel.app/api?username=kauanzin222&show_icons=true&theme=merko"
+  height="195"
+  src="https://github-readme-stats.vercel.app/api?username=kauanzin222&show_icons=true&theme=react"
 />
 
 <img 
   align="left"
   alt="GitHub Stats"
-  height="200px"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanzin222&theme=merko&layout=compact"
+  height="195"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanzin222&theme=react"
 />
-<br clear="left" />
+<br clear="left"/>
 
 
 ---
-*more about me:*  
-I like to play souls-like games ⚔️☠️, Star Wars saga 🎞️ (not the lastest one 👎) and I'm learning how to play guitar 🎸!
 
+## 📌 My Atual Pins:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauanzin222&repo=bootcamp-devjr-projectmenu-bootstrap&theme=react)](https://github.com/kauanzin222/bootcamp-devjr-projectmenu-bootstrap.git)
+
+---
+
+## 🌐 Social Media:
+  
+<img 
+  src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
+  href="www.linkedin.com/in/kauã-cardoso-25259b2b3"
+  alt="LinkedIn_logo"
+  height="45"
+  width="45"
+/>
 
