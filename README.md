@@ -1,7 +1,7 @@
 # 🧑🏻‍💻 Hello there! I'm Kauã.
 
 ## 🚀 About me: 
-Aspiring **Full-Stack Developer** following my roadmap and learning every day. I have **solid knowledge in programming logic** and basic **web development** using ``HTML, CSS, JavaScript, BootStrap``. I'm currently looking to learn and develop projects in **``Java and later improve with Angular``**. I am open to changes and acquiring learning and knowledge. I intend to continually expand my technical base. I also have basic knowledge with **``Oracle SQL``**.
+Aspiring **Full-Stack Developer** following my roadmap and learning every day. I have **solid knowledge in programming logic** and basic **web development** using ``HTML, CSS, JavaScript & BootStrap``. I'm currently looking to learn and develop projects in **``Java and later improve with Angular``**. I am open to changes and acquiring learning and knowledge. I intend to continually expand my technical base. I also have basic knowledge with **``Oracle SQL``**.
 
 
 ## 🛠️ Abilitys: 
