@@ -6,38 +6,10 @@ Aspiring **Full-Stack Developer** following my roadmap and learning every day. I
 
 ## 🛠️ Abilitys: 
   - ### ``General``
-&nbsp;&nbsp;<img
-  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
-  alt="Java_logo"
-  width="45"
-/>&nbsp;&nbsp;&nbsp;
-<img 
-  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-  alt="JavaScript_logo"
-  width="45"
-/>&nbsp;&nbsp;&nbsp;
-<img 
-  src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg"
-  alt="SQL_logo"
-  width="45"
-/>&nbsp;&nbsp;&nbsp;
+[![Abilitys](https://skillicons.dev/icons?i=java,spring,js,mysql,linux)](https://skillicons.dev)
 
   - ### ``Web Development``
-&nbsp;&nbsp;<img 
-  src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
-  alt="HTML_logo"
-  width="45"
-/>&nbsp;&nbsp;&nbsp;
-<img 
-  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"
-  alt="CSS_logo"
-  width="45"
-/>&nbsp;&nbsp;&nbsp;
-<img 
-  src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
-  alt="BootStrap_logo"
-  width="45"
-/>&nbsp;&nbsp;&nbsp;
+[![WebDevelopment](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
 
 --- 
 
@@ -66,12 +38,6 @@ Aspiring **Full-Stack Developer** following my roadmap and learning every day. I
 ---
 
 ## 🌐 Social Media:
-<a href="https://www.linkedin.com/in/kauã-cardoso-25259b2b3">
-<img 
-  src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
-  alt="LinkedIn_logo"
-  height="45"
-  width="45"
-/>
-</a>
+[![SocialMedia](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/kauã-cardoso-25259b2b3)
+
 
