@@ -6,10 +6,10 @@ Aspiring **Full-Stack Developer** following my roadmap and learning every day. I
 
 ## 🛠️ Abilitys: 
   - ### ``General``
-[![Abilitys](https://skillicons.dev/icons?i=java,spring,js,mysql,linux)](https://skillicons.dev)
+[![Abilitys](https://skillicons.dev/icons?i=java,spring,mysql,linux)](https://skillicons.dev)
 
   - ### ``Web Development``
-[![WebDevelopment](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
+[![WebDevelopment](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
 --- 
 
