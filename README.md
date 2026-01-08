@@ -18,20 +18,20 @@ Aspiring **Full-Stack Developer** following my roadmap and learning every day. I
 <img 
   align="left"
   alt="GitHub Stats"
-  src="https://github-readme-stats.vercel.app/api?username=kauanzin222&show_icons=true&theme=tokyonight&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=kauanzin222&show_icons=true&theme=dracula&rank_icon=github"
 />
 
 <img 
   align="left"
   alt="GitHub Stats"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanzin222&theme=tokyonight&hide=python&layout=compact"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanzin222&theme=dracula&hide=python&layout=compact"
 />
 <br clear="left"/>
 
 ---
 
 ## 📌 My Atual Pins:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauanzin222&repo=bootcamp-devjr-projectmenu-bootstrap&theme=tokyonight)](https://github.com/kauanzin222/bootcamp-devjr-projectmenu-bootstrap)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauanzin222&repo=GISA-Projeto&theme=tokyonight)](https://github.com/kauanzin222/GISA-Projeto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauanzin222&repo=bootcamp-devjr-projectmenu-bootstrap&theme=dracula)](https://github.com/kauanzin222/bootcamp-devjr-projectmenu-bootstrap)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kauanzin222&repo=GISA-Projeto&theme=dracula)](https://github.com/kauanzin222/GISA-Projeto)
 
 ---
 
