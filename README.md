@@ -1,19 +1,19 @@
-# 🧑🏻‍💻 Hello there! I'm Kauã.
+# 🧑🏻‍💻 Olá! Eu sou o Kauã.
 
-## 🚀 About me: 
-Aspiring **Full-Stack Developer** following my roadmap and learning every day. I have **solid knowledge in programming logic** and basic **web development** using ``HTML, CSS, JavaScript & BootStrap``. I'm currently looking to learn and develop projects in **``Java and Angular together``**. I am open to changes and acquiring learning and knowledge. I intend to continually expand my technical base. I also have basic knowledge with **``Oracle SQL``**.
+## 🚀 Sobre mim: 
+Desenvolvedor **Full-Stack** em constante evolução e aprendizado diário. Tenho **sólidos conhecimentos em lógica de programação** e desenvolvimento **web** utilizando ``HTML, CSS, JavaScript & Bootstrap``. Atualmente, foco no desenvolvimento de projetos integrando **``Java (Spring Boot) e Angular``**, aplicando conceitos de arquitetura e integração de sistemas. Sou aberto a novos desafios e busco continuamente expandir minha base técnica, possuindo também conhecimentos em **``Oracle SQL``**.
 
 
-## 🛠️ Skills: 
-  - ### ``General``
+## 🛠️ Habilidades: 
+  - ### ``Geral``
 [![Skills](https://skillicons.dev/icons?i=java,angular,spring,mysql,linux)](https://skillicons.dev)
 
-  - ### ``Web Development``
+  - ### ``Desenvolvimento Web``
 [![WebDevelopment](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap)](https://skillicons.dev)
 
 --- 
 
-## 🤖 Stats:
+## 🤖 Estatísticas:
 
 <img 
   align="left"
@@ -30,13 +30,10 @@ Aspiring **Full-Stack Developer** following my roadmap and learning every day. I
 
 ---
 
-## 📌 My Atual Pins:
-[![Readme Card](https://github-readme-stats-hp4l.vercel.app/api/pin/?username=kauanzin222&repo=Module10-ProductRegister-SpringBoot&theme=dracula)]([https://github.com/kauanzin222/bootcamp-devjr-projectmenu-bootstrap](https://github.com/kauanzin222/Module10-ProductRegister-SpringBoot.git))&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats-hp4l.vercel.app/api/pin/?username=kauanzin222&repo=GISA-Projeto&theme=dracula)](https://github.com/kauanzin222/GISA-Projeto)
+## 📌 Meus Pins Atuais:
+[![Readme Card](https://github-readme-stats-hp4l.vercel.app/api/pin/?username=kauanzin222&repo=Module10-ProductRegister-SpringBoot&theme=dracula)](https://github.com/kauanzin222/Module10-ProductRegister-SpringBoot.git)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats-hp4l.vercel.app/api/pin/?username=kauanzin222&repo=GISA-Projeto&theme=dracula)](https://github.com/kauanzin222/GISA-Projeto)
 
 ---
 
-## 🌐 Social Media:
+## 🌐 Redes Sociais:
 [![SocialMedia](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kauã-cardoso-25259b2b3)
-
-
-
