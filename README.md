@@ -18,20 +18,20 @@ Desenvolvedor **Full-Stack** em constante evolução e aprendizado diário. Tenh
 <img 
   align="left"
   alt="GitHub Stats"
-  src="https://github-readme-stats-hp4l.vercel.app/api?username=kauanzin222&show_icons=true&theme=swift&rank_icon=github"
+  src="https://github-readme-stats-hp4l.vercel.app/api?username=kauanzin222&show_icons=true&theme=ocean_dark&rank_icon=github"
 />
 
 <img 
   align="left"
   alt="GitHub Stats"
-  src="https://github-readme-stats-hp4l.vercel.app/api/top-langs/?username=kauanzin222&theme=swift&layout=compact"
+  src="https://github-readme-stats-hp4l.vercel.app/api/top-langs/?username=kauanzin222&theme=ocean_dark&layout=compact"
 />
 <br clear="left"/>
 
 ---
 
 ## 📌 Meus Pins Atuais:
-[![Readme Card](https://github-readme-stats-hp4l.vercel.app/api/pin/?username=kauanzin222&repo=NovaVersao-CadastroProdutos-JavaSpring&theme=swift)](https://github.com/kauanzin222/NovaVersao-CadastroProdutos-JavaSpring)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats-hp4l.vercel.app/api/pin/?username=kauanzin222&repo=GISA-Projeto&theme=swift)](https://github.com/kauanzin222/GISA-Projeto)
+[![Readme Card](https://github-readme-stats-hp4l.vercel.app/api/pin/?username=kauanzin222&repo=NovaVersao-CadastroProdutos-JavaSpring&theme=ocean_dark)](https://github.com/kauanzin222/NovaVersao-CadastroProdutos-JavaSpring)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats-hp4l.vercel.app/api/pin/?username=kauanzin222&repo=GISA-Projeto&theme=ocean_dark)](https://github.com/kauanzin222/GISA-Projeto)
 
 ---
 
